@@ -32,4 +32,4 @@ jobs:
           file: ./Dockerfile
           platforms: linux/amd64
           push: true
-          tags: mikeattara/techtrends:latest, mikeattara/techtrends:1.2.1
+          tags: sujiawei323/techtrends:latest, sunjiawei323/techtrends:1.2.1
